@@ -1,0 +1,25 @@
+header{
+    font-size: 50px;
+    text-align: center;
+}
+
+.move{
+    position: relative;
+    top: 35px;
+}
+
+form{
+    text-align: center;
+}
+
+fieldset{
+    margin: auto;
+    width: 450px;
+    text-align: left;
+    
+}
+
+legend{
+    font-size: 30px;
+    font-style: italic;
+}
